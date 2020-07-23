@@ -1,0 +1,86 @@
+************* Module tests.test_truck_invalid_type
+tests/test_truck_invalid_type.py:31: [C0301(line-too-long), ] Line too long (139/79)
+tests/test_truck_invalid_type.py:47: [C0301(line-too-long), ] Line too long (145/79)
+tests/test_truck_invalid_type.py:62: [C0301(line-too-long), ] Line too long (147/79)
+tests/test_truck_invalid_type.py:78: [C0301(line-too-long), ] Line too long (138/79)
+************* Module tests.test_truck_apply_breaks
+tests/test_truck_apply_breaks.py:6: [C0301(line-too-long), ] Line too long (82/79)
+tests/test_truck_apply_breaks.py:24: [C0301(line-too-long), ] Line too long (208/79)
+tests/test_truck_apply_breaks.py:38: [C0301(line-too-long), ] Line too long (109/79)
+tests/test_truck_apply_breaks.py:54: [C0301(line-too-long), ] Line too long (117/79)
+************* Module tests.test_truck_object_creation
+tests/test_truck_object_creation.py:5: [C0301(line-too-long), ] Line too long (85/79)
+tests/test_truck_object_creation.py:24: [C0301(line-too-long), ] Line too long (92/79)
+************* Module tests.test_race_car_object_creatiion
+tests/test_race_car_object_creatiion.py:5: [C0301(line-too-long), ] Line too long (94/79)
+tests/test_race_car_object_creatiion.py:23: [C0301(line-too-long), ] Line too long (101/79)
+************* Module tests.test_race_car_invalid_type
+tests/test_race_car_invalid_type.py:11: [C0301(line-too-long), ] Line too long (124/79)
+tests/test_race_car_invalid_type.py:27: [C0301(line-too-long), ] Line too long (130/79)
+tests/test_race_car_invalid_type.py:43: [C0301(line-too-long), ] Line too long (132/79)
+************* Module tests.test_truck_unload
+tests/test_truck_unload.py:6: [C0301(line-too-long), ] Line too long (106/79)
+tests/test_truck_unload.py:24: [C0301(line-too-long), ] Line too long (230/79)
+tests/test_truck_unload.py:42: [C0301(line-too-long), ] Line too long (258/79)
+tests/test_truck_unload.py:58: [C0301(line-too-long), ] Line too long (229/79)
+************* Module tests.test_car_apply_breaks
+tests/test_car_apply_breaks.py:22: [C0301(line-too-long), ] Line too long (186/79)
+tests/test_car_apply_breaks.py:35: [C0301(line-too-long), ] Line too long (105/79)
+tests/test_car_apply_breaks.py:50: [C0301(line-too-long), ] Line too long (113/79)
+************* Module tests.test_car_invalid_types
+tests/test_car_invalid_types.py:28: [C0301(line-too-long), ] Line too long (119/79)
+tests/test_car_invalid_types.py:42: [C0301(line-too-long), ] Line too long (125/79)
+tests/test_car_invalid_types.py:56: [C0301(line-too-long), ] Line too long (127/79)
+************* Module tests.test_race_car_sound_horn
+tests/test_race_car_sound_horn.py:1: [C0301(line-too-long), ] Line too long (109/79)
+tests/test_race_car_sound_horn.py:12: [C0301(line-too-long), ] Line too long (113/79)
+************* Module tests.test_race_car_apply_breaks
+tests/test_race_car_apply_breaks.py:6: [C0301(line-too-long), ] Line too long (88/79)
+tests/test_race_car_apply_breaks.py:23: [C0301(line-too-long), ] Line too long (226/79)
+tests/test_race_car_apply_breaks.py:37: [C0301(line-too-long), ] Line too long (115/79)
+tests/test_race_car_apply_breaks.py:53: [C0301(line-too-long), ] Line too long (123/79)
+************* Module tests.test_car_accelerate
+tests/test_car_accelerate.py:6: [C0301(line-too-long), ] Line too long (81/79)
+tests/test_car_accelerate.py:17: [C0301(line-too-long), ] Line too long (123/79)
+tests/test_car_accelerate.py:32: [C0301(line-too-long), ] Line too long (107/79)
+tests/test_car_accelerate.py:44: [C0301(line-too-long), ] Line too long (166/79)
+tests/test_car_accelerate.py:62: [C0301(line-too-long), ] Line too long (93/79)
+tests/test_car_accelerate.py:72: [C0301(line-too-long), ] Line too long (104/79)
+************* Module tests.test_truck_load
+tests/test_truck_load.py:6: [C0301(line-too-long), ] Line too long (102/79)
+tests/test_truck_load.py:24: [C0301(line-too-long), ] Line too long (242/79)
+tests/test_truck_load.py:42: [C0301(line-too-long), ] Line too long (270/79)
+tests/test_truck_load.py:59: [C0301(line-too-long), ] Line too long (242/79)
+tests/test_truck_load.py:76: [C0301(line-too-long), ] Line too long (171/79)
+************* Module tests.test_car_object_creation
+tests/test_car_object_creation.py:20: [C0301(line-too-long), ] Line too long (86/79)
+tests/test_car_object_creation.py:22: [C0301(line-too-long), ] Line too long (86/79)
+************* Module tests.test_race_car_nitro
+tests/test_race_car_nitro.py:7: [C0301(line-too-long), ] Line too long (134/79)
+tests/test_race_car_nitro.py:10: [C0301(line-too-long), ] Line too long (249/79)
+tests/test_race_car_nitro.py:28: [C0301(line-too-long), ] Line too long (80/79)
+tests/test_race_car_nitro.py:30: [C0301(line-too-long), ] Line too long (233/79)
+************* Module tests.test_race_car_accelerate
+tests/test_race_car_accelerate.py:6: [C0301(line-too-long), ] Line too long (91/79)
+tests/test_race_car_accelerate.py:17: [C0301(line-too-long), ] Line too long (143/79)
+tests/test_race_car_accelerate.py:33: [C0301(line-too-long), ] Line too long (122/79)
+tests/test_race_car_accelerate.py:45: [C0301(line-too-long), ] Line too long (199/79)
+tests/test_race_car_accelerate.py:64: [C0301(line-too-long), ] Line too long (121/79)
+tests/test_race_car_accelerate.py:75: [C0301(line-too-long), ] Line too long (132/79)
+************* Module tests.test_car_sound_horn
+tests/test_car_sound_horn.py:1: [C0301(line-too-long), ] Line too long (85/79)
+tests/test_car_sound_horn.py:12: [C0301(line-too-long), ] Line too long (103/79)
+************* Module tests.test_truck_sound_horn
+tests/test_truck_sound_horn.py:1: [C0301(line-too-long), ] Line too long (89/79)
+tests/test_truck_sound_horn.py:12: [C0301(line-too-long), ] Line too long (106/79)
+************* Module tests.test_truck_accelerate
+tests/test_truck_accelerate.py:6: [C0301(line-too-long), ] Line too long (85/79)
+tests/test_truck_accelerate.py:17: [C0301(line-too-long), ] Line too long (125/79)
+tests/test_truck_accelerate.py:32: [C0301(line-too-long), ] Line too long (113/79)
+tests/test_truck_accelerate.py:45: [C0301(line-too-long), ] Line too long (184/79)
+tests/test_truck_accelerate.py:64: [C0301(line-too-long), ] Line too long (97/79)
+tests/test_truck_accelerate.py:75: [C0301(line-too-long), ] Line too long (98/79)
+
+------------------------------------------------------------------
+Your code has been rated at 9.14/10 (previous run: 9.63/10, -0.49)
+

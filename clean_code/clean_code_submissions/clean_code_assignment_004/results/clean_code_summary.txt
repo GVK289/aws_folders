@@ -1,0 +1,25 @@
+Clean Code Results Summary at 28 Apr 12 11 PM:
+
+Overall Score: 9.628252788104088
+
+File wise summary:
+fb_post.utils: 10.0
+fb_post.utils.fb_post_get_reaction_metrics: 10.0
+fb_post.utils.fb_post_get_total_reaction_count: 10.0
+fb_post.utils.fb_post_get_reactions_to_post: 10.0
+fb_post.utils.fb_post_create_comment: 10.0
+fb_post.utils.user_info: 7.5
+fb_post.utils.fb_post_create_post: 10.0
+fb_post.utils.fb_post_reply_to_comment: 9.09090909090909
+fb_post.utils.fb_post_react_to_post: 10.0
+fb_post.utils.fb_post_react_to_comment: 10.0
+fb_post.utils.fb_post_get_posts_with_more_positive_reactions: 10.0
+fb_post.utils.fb_post_details_of_post: 9.23076923076923
+fb_post.utils.fb_post_get_user_posts: 10.0
+fb_post.utils.fb_post_get_posts_reacted_by_user: 10.0
+fb_post.utils.fb_post_get_post: 10.0
+fb_post.utils.fb_post_get_replies_for_comment: 10.0
+fb_post.utils.fb_post_exception_methods: 9.772727272727273
+fb_post.utils.fb_post_delete_post: 8.571428571428571
+fb_post/constants: 8.181818181818182
+fb_post/exceptions: 9.375

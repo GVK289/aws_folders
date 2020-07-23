@@ -1,0 +1,21 @@
+************* Module fb_post.utils.user_info
+fb_post/utils/user_info.py:1: [W0611(unused-import), ] Unused User imported from fb_post.models
+************* Module fb_post.utils.fb_post_reply_to_comment
+fb_post/utils/fb_post_reply_to_comment.py:11: [C0121(singleton-comparison), reply_to_comment] Comparison to None should be 'expr is not None'
+************* Module fb_post.utils.fb_post_details_of_post
+fb_post/utils/fb_post_details_of_post.py:33: [W2207(max-for-block-size), get_post_comment_list] Too many statements in for block (5/4)
+fb_post/utils/fb_post_details_of_post.py:45: [W2207(max-for-block-size), get_comment_and_reply_objects] Too many statements in for block (5/4)
+fb_post/utils/fb_post_details_of_post.py:58: [W2207(max-for-block-size), get_post_reactions_in_dict] Too many statements in for block (5/4)
+************* Module fb_post.utils.fb_post_exception_methods
+fb_post/utils/fb_post_exception_methods.py:27: [C0103(invalid-name), ] Constant name "ReactionsList" doesn't conform to UPPER_CASE naming style
+************* Module fb_post.utils.fb_post_delete_post
+fb_post/utils/fb_post_delete_post.py:1: [W0611(unused-import), ] Unused Post imported from fb_post.models
+************* Module fb_post/constants
+fb_post/constants.py:1: [C0103(invalid-name), ] Module name "fb_post/constants" doesn't conform to snake_case naming style
+fb_post/constants.py:4: [C0103(invalid-name), ] Constant name "DatetimeFormat" doesn't conform to UPPER_CASE naming style
+************* Module fb_post/exceptions
+fb_post/exceptions.py:1: [C0103(invalid-name), ] Module name "fb_post/exceptions" doesn't conform to snake_case naming style
+
+------------------------------------------------------------------
+Your code has been rated at 9.63/10 (previous run: 7.94/10, +1.69)
+
